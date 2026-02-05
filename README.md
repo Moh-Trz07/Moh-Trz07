@@ -1,10 +1,8 @@
-# My Stats
+## 🚀 GitHub Stats
 
-## GitHub Stats
-![Moh-Trz07's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moh-Trz07&show_icons=true&count_private=true&hide_border=true&theme=radical)
+![Moh-Trz07's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Moh-Trz07&theme=github)
+![Moh-Trz07's Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Moh-Trz07&theme=github)
+![Moh-Trz07's Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Moh-Trz07&theme=github)
 
-## Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Moh-Trz07&layout=compact&hide_border=true&theme=radical)
-
-## GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Moh-Trz07&theme=radical)
+## 📈 Activity Graph
+![Moh-Trz07's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Moh-Trz07&theme=github)
