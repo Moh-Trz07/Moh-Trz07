@@ -1,7 +1,7 @@
 <!-- Header Section -->
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXVyYnduZ3hjM3JhN2Jud3hrM2E5ZzRzeDF4eDR6bTBraHJkejNjbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="250" alt="Coding"/>
-  <h1>👋 Hello, I'm Mohammed T.</h1>
+  <h1> Hello, I'm Mohammed T.</h1>
   <h3>🛡️ Aspiring Threat Hunter & Detection Engineer</h3>
   <p>🎓 Master's in Networks & Distributed Systems | Université Djillali Liabès</p>
   <p>💻 Python and Go Developer | 🐧 Arch Linux Enthusiast</p>
