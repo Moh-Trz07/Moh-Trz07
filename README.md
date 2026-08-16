@@ -4,7 +4,7 @@
   <h1>👋 Hello, I'm Mohammed T.</h1>
   <h3>🛡️ Aspiring Threat Hunter & Detection Engineer</h3>
   <p>🎓 Master's in Networks & Distributed Systems | Université Djillali Liabès</p>
-  <p>🐍 Python Developer | 🐧 Arch Linux Enthusiast</p>
+  <p>💻 Python and Go Developer | 🐧 Arch Linux Enthusiast</p>
 </div>
 
 ---
