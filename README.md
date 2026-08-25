@@ -72,12 +72,20 @@ I'm a Master's student passionate about **cybersecurity, defensive operations, a
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Moh-Trz07&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=ff6b6b&icon_color=ff6b6b&text_color=c9d1d9" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moh-Trz07&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&text_color=c9d1d9" width="41%" alt="Top Languages"/>
+  
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=Moh-Trz07&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=ff6b6b&icon_color=ff6b6b&text_color=c9d1d9" width="48%" alt="GitHub Stats"/>
+  
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moh-Trz07&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&text_color=c9d1d9" width="41%" alt="Top Languages"/>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moh-Trz07&theme=radical&hide_border=true&background=0d1117&stroke=ff6b6b&ring=ff6b6b&fire=ff6b6b&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=ff6b6b&sideLabels=c9d1d9&dates=c9d1d9" width="89%" alt="GitHub Streak"/>
+  
+<!-- GitHub Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Moh-Trz07&theme=radical&hide_border=true&background=0d1117&stroke=ff6b6b&ring=ff6b6b&fire=ff6b6b&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=ff6b6b&sideLabels=c9d1d9&dates=c9d1d9" width="89%" alt="GitHub Streak"/>
+
 </div>
 
 ---
@@ -85,7 +93,10 @@ I'm a Master's student passionate about **cybersecurity, defensive operations, a
 ### 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Moh-Trz07&theme=radical&no-frame=true&row=2&column=4&margin-w=10&margin-h=10" width="89%" alt="GitHub Trophies"/>
+  
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=Moh-Trz07&theme=radical&no-frame=true&row=2&column=4&margin-w=10&margin-h=10" width="89%" alt="GitHub Trophies"/>
+
 </div>
 
 ---
@@ -93,8 +104,13 @@ I'm a Master's student passionate about **cybersecurity, defensive operations, a
 ### 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Moh-Trz07&theme=github_dark" width="89%" alt="Contribution Details"/>
+  
+<!-- Contribution Graph -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Moh-Trz07&theme=github_dark" width="89%" alt="Contribution Details"/>
+
 </div>
+
+---
 
 ### 📊 Weekly Language Usage
 
@@ -106,9 +122,7 @@ Python      ████████░░░░░░░░░░░░   38.0%
 HTML/CSS    ████░░░░░░░░░░░░░░░░   20.0%
 Bash        ██░░░░░░░░░░░░░░░░░░   10.0%
 ```
-
 </div>
-
 ---
 
 ### 📫 Let's Connect
