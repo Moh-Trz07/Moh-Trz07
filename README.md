@@ -69,31 +69,20 @@ I'm a Master's student passionate about **cybersecurity, defensive operations, a
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Stats
 
 <div align="center">
   
-| 📊 Stats | 🔥 Streak | 📈 Languages |
-|----------|-----------|--------------|
-| ![Stats](https://github-readme-stats.vercel.app/api?username=Moh-Trz07&show_icons=true&theme=radical&hide_border=true) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Moh-Trz07&theme=radical&hide_border=true) | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Moh-Trz07&layout=compact&theme=radical&hide_border=true) |
+![Moh-Trz07's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Moh-Trz07&theme=github)
+![Moh-Trz07's Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Moh-Trz07&theme=github)
+![Moh-Trz07's Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Moh-Trz07&theme=github)
 
 </div>
 
----
+### 📈 Activity Graph
 
-### 🏆 GitHub Trophies
+![Moh-Trz07's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Moh-Trz07&theme=github)
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Moh-Trz07&theme=radical&no-frame=true&row=2&column=4" width="89%" alt="GitHub Trophies"/>
-</div>
-
----
-
-### 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Moh-Trz07&theme=github_dark" width="89%" alt="Contribution Details"/>
-</div>
 ---
 
 ### 📫 Let's Connect
