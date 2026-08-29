@@ -50,9 +50,13 @@ I'm a Master's student passionate about **cybersecurity, defensive operations, a
 
 ---
 
+### 🧪 Completed Labs & Rooms
+- ✅ **Intro to Log Analysis** – TryHackMe (2026) – *Hands-on lab covering log types, command-line analysis (`grep`, `awk`, `sed`), and detection engineering concepts.*
+
+---
+
 ### 🚀 What I'm Currently Working On
 
-- 📊 **Log Analysis** – Learning to analyze Windows and Linux logs for threat detection and incident response.
 - 📝 **Documenting my journey** – Writing about what I learn in cybersecurity on GitHub.
 - 🐧 **Linux Essentials** – Deepening my Linux skills on Arch Linux through hands-on practice and TryHackMe labs.
 - 🌐 **Networking Advanced** – Building advanced networking knowledge beyond the basics (routing, switching, protocols, and network security).
@@ -65,7 +69,7 @@ I'm a Master's student passionate about **cybersecurity, defensive operations, a
 - 🔍 Master **Threat Hunting** and **Detection Engineering**
 - 🤖 Build **automation scripts** for log analysis
 - 📝 Contribute to **open-source security tools**
-- 👌 Skilled in **Log Analysis**, **Network Security**, and **SIEM Operations**
+- 👌 Skilled in **Network Security**, and **SIEM Operations**
 
 ---
 
