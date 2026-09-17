@@ -47,6 +47,7 @@ I'm a Master's student passionate about **cybersecurity, defensive operations, a
 ### 📜 Certifications
 
 - ✅ **Networking Basics** – Cisco Networking Academy (2026)
+- ✅ **Intro to Cybersecurity** – Cisco Networking Academy (2026)
 
 ---
 
