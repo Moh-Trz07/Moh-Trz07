@@ -77,7 +77,7 @@ I'm a Master's student passionate about **cybersecurity, defensive operations, a
 ### 📊 GitHub Stats
 
 <div align="center">
-  
+
 ![Moh-Trz07's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Moh-Trz07&theme=github)
 ![Moh-Trz07's Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Moh-Trz07&theme=github)
 ![Moh-Trz07's Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Moh-Trz07&theme=github)
