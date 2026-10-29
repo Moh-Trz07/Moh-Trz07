@@ -62,6 +62,7 @@ I'm a Master's student passionate about **cybersecurity, defensive operations, a
 - 🐧 **Linux Essentials** – Deepening my Linux skills on Arch Linux through hands-on practice and TryHackMe labs.
 - 🌐 **Networking Advanced** – Building advanced networking knowledge beyond the basics (routing, switching, protocols, and network security).
 - 🐍 **Go & Python for Security** – Learning Go and Python to build security tools, automate log analysis, and create detection scripts.
+- 🔍 **Splunk SPL** - Learning SPL to build security tools.
 
 ---
 
